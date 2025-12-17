@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Harper Lee","country":"USA","birth_year":1926,"biography":"Author of To Kill a Mockingbird."},
+  {"id":2,"name":"George Orwell","country":"UK","birth_year":1903,"biography":"British writer known for dystopian novels."},
+  {"id":3,"name":"Jane Austen","country":"UK","birth_year":1775,"biography":"English novelist known for romantic fiction."}
+]

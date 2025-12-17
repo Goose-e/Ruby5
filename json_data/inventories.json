@@ -1,0 +1,6 @@
+[
+  {"id":1,"book_id":1,"store_id":1,"quantity":15,"last_restocked":"2025-01-05"},
+  {"id":2,"book_id":2,"store_id":1,"quantity":8,"last_restocked":"2025-01-02"},
+  {"id":3,"book_id":2,"store_id":2,"quantity":12,"last_restocked":"2025-01-03"},
+  {"id":4,"book_id":3,"store_id":2,"quantity":5,"last_restocked":"2025-01-07"}
+]

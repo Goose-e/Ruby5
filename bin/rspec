@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+$LOAD_PATH.unshift(File.expand_path('..', __dir__))
+require 'rspec'
+
+spec_files = Dir[File.join(__dir__, '..', 'rspec', '**', '*_spec.rb')].sort
+spec_files.each { |file| require file }
+
+exit RSpec::Runner.run

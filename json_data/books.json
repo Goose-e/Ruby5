@@ -1,0 +1,5 @@
+[
+  {"id":1,"title":"To Kill a Mockingbird","price":12.5,"publication_date":"1960-07-11","isbn":"9780061120084","page_count":281,"author_id":1,"publisher_id":2},
+  {"id":2,"title":"1984","price":10.0,"publication_date":"1949-06-08","isbn":"9780451524935","page_count":328,"author_id":2,"publisher_id":1},
+  {"id":3,"title":"Pride and Prejudice","price":9.99,"publication_date":"1813-01-28","isbn":"9781503290563","page_count":279,"author_id":3,"publisher_id":1}
+]
