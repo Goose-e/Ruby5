@@ -1,0 +1,4 @@
+[
+  {"id":1,"name":"Central Books","city":"New York","address":"123 Main St","manager":"Alice"},
+  {"id":2,"name":"Riverfront Books","city":"London","address":"45 Thames Rd","manager":"Bob"}
+]

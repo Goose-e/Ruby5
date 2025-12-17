@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Classics","description":"Timeless literature","shelf_code":"CLS"},
+  {"id":2,"name":"Dystopian","description":"Dystopian fiction","shelf_code":"DYS"},
+  {"id":3,"name":"Historical","description":"Historical narratives","shelf_code":"HIS"}
+]
